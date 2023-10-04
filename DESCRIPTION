@@ -1,0 +1,10 @@
+Package: AppliedMicro
+Type: Package
+Title: Statistical Tools for Applied Microeconometrics (replace with your actual title)
+Version: 0.1.0
+Author: Daniel Behr
+Maintainer: Daniel Behr <your.email@somewhere.net>  # Replace with your email
+Description: Provides functions and tools commonly used in applied microeconometrics. 
+    Further description can be added here. Remember to keep it concise and informative.
+License: MIT + file LICENSE
+RoxygenNote: 7.2.3
